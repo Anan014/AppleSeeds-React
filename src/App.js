@@ -1,9 +1,9 @@
-import Quiz from "./components/ex3.2/Quiz";
+import Index4D1 from "./components/Props/ex4.1/Index4D1";
 
 function App() {
   return (
     <div>
-      <Quiz />
+      <Index4D1/>
     </div>
   );
 }
