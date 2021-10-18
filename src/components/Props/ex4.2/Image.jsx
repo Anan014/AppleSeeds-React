@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Image = ({imageUrl }) => {
+const Image = ({imageUrl}) => {
     return (
         <div
             className='img'
