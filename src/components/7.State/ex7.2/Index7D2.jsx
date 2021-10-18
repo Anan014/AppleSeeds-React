@@ -13,24 +13,24 @@ class Index7D2 extends React.Component {
     handleClick = () => {
         //change state
         this.setState(state => ({
-            isToggleOn: !state.isToggleOn
-        }));
+            isToggleOn: !state.isToggleOn}));
     }
 
     render() {
         return (
             <div>
                 <input onClick={this.handleClick}
-                type="button"
-                value={this.state.isToggleOn?"Show":"Hide"}
-                style={{width:"100px"}}
+                    type="button"
+                    value={this.state.isToggleOn ? "Show" : "Hide"}
+                    style={{ width: "100px" }}
                 />
-                
-                <div style={{backgroundColor:"red",
-                 height:"100px",
-                 width:"100px",
-                 display:this.state.isToggleOn?"none":"block"
-                 }}>
+
+                <div style={{
+                    backgroundColor: "red",
+                    height: "100px",
+                    width: "100px",
+                    display: this.state.isToggleOn ? "none" : "block"
+                }}>
                 </div>
             </div>
         );
