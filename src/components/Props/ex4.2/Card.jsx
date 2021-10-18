@@ -13,7 +13,7 @@ const Card = ({
 }) => {
     return (
         <div className="card">
-            <Image imageUrl={`${imageUrl}`} />
+            <Image imageUrl={imageUrl} />
 
             <div className="cardContainer">
                 <Title title={`${title}`} />
