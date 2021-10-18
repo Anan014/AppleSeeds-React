@@ -1,9 +1,9 @@
-import Index6D1 from "./components/6.ClassBasedComponents/ex6.1/Index6D1";
+import Index7D1 from "./components/7.State/ex7.1/Index7D1"
 
 function App() {
   return (
     <div>
-      <Index6D1/>
+      <Index7D1/>
     </div>
   );
 }
