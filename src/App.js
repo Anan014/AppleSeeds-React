@@ -1,9 +1,9 @@
-import Index4D2 from "./components/Props/ex4.2/Index4D2";
+import Index6D1 from "./components/6.ClassBasedComponents/ex6.1/Index6D1";
 
 function App() {
   return (
     <div>
-      <Index4D2/>
+      <Index6D1/>
     </div>
   );
 }
