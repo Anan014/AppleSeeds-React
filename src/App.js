@@ -1,9 +1,9 @@
-import Index7D2 from "./components/7.State/ex7.2/Index7D2"
+import Index8D1 from "./components/8.LifeCycleMethodsAndTernaryExpressions/ex8.1-LifeCycleMethods/Index8D1";
 
 function App() {
   return (
     <div>
-      <Index7D2/>
+      <Index8D1/>
     </div>
   );
 }
