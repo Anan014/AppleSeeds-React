@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.box {
+    background-color: blueviolet;
+    margin: 10px;
+}
+
+.slide {
+    margin-left: -200px;
+    animation: slide 1s forwards 1s;
+}
+
+.hide {
+    display: none;
+}
+
+@keyframes slide {
+    100% {
+        margin-left: 0px;
+    }
+}

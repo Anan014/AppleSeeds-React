@@ -1,9 +1,9 @@
-import Index8D1 from "./components/8.LifeCycleMethodsAndTernaryExpressions/ex8.1-LifeCycleMethods/Index8D1";
+import Index8D2 from "./components/8.LifeCycleMethodsAndTernaryExpressions/ex8.2-Box_Animations/Index8D2";
 
 function App() {
   return (
     <div>
-      <Index8D1/>
+      <Index8D2/>
     </div>
   );
 }
