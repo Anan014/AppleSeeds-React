@@ -1,9 +1,9 @@
-import Index8D3 from './components/8.LifeCycleMethodsAndTernaryExpressions/ex8.3-Changing_Box/Index8D3'
+import Index9D1 from "./components/9.SpinnerAndDefaultProps/9.1-Spinner/Index9D1";
 
 function App() {
   return (
     <div>
-      <Index8D3/>
+      <Index9D1/>
     </div>
   );
 }
