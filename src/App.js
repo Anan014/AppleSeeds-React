@@ -1,9 +1,9 @@
-import Index9D1 from "./components/9.SpinnerAndDefaultProps/9.1-Spinner/Index9D1";
+import Index12D1  from "./components/12.API_RequestsWithReact/12.1-Chuck_Norris/Index12D1";
 
 function App() {
   return (
     <div>
-      <Index9D1/>
+      <Index12D1/>
     </div>
   );
 }
