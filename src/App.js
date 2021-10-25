@@ -1,9 +1,9 @@
-import Index11D3 from "./components/10.UserInput_FormsAndEvents/11.3-form_review/Index11D3";
+import Index18D1 from "./components/17.React_Function_Components/18.1-Text/Index18D1";
 
 function App() {
   return (
     <div>
-      <Index11D3/>
+      <Index18D1/>
     </div>
   );
 }
