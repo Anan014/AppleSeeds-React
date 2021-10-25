@@ -1,9 +1,9 @@
-import Index18D1 from "./components/17.React_Function_Components/18.1-Text/Index18D1";
+import Index18D2 from "./components/17.React_Function_Components/18.2-SimpleTodo/Index18D2";
 
 function App() {
   return (
     <div>
-      <Index18D1/>
+      <Index18D2/>
     </div>
   );
 }
