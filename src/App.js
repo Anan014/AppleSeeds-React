@@ -1,9 +1,9 @@
-import Index18D4 from "./components/17.React_Function_Components/18.4-MarkingAndDeleting/Index18D4";
+import Index19D1 from "./components/17.React_Function_Components/19.1-Simple_Fetch/Index19D1";
 
 function App() {
   return (
     <div>
-      <Index18D4/>
+      <Index19D1/>
     </div>
   );
 }
