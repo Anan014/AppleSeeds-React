@@ -15,15 +15,15 @@ function Index19D1() {
 
     return (
         <div>
-        {movies?
-        <div>
-        <p>{movies.title}</p>
-        <p>{movies.director}</p>
-        </div>
-        :
-        <p>loading</p>
-        }
-        
+            {movies ?
+                <div>
+                    <p>{movies.title}</p>
+                    <p>{movies.director}</p>
+                </div>
+                :
+                <p>loading</p>
+            }
+
         </div>
     );
 }
