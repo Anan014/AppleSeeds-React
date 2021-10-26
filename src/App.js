@@ -1,9 +1,9 @@
-import Index19D2 from "./components/17.React_Function_Components/19.2-Countries_Of_The_World/Index19D2";
+import Index19D3 from "./components/17.React_Function_Components/19.3-Algolia_API/Index19D3";
 
 function App() {
   return (
     <div>
-      <Index19D2/>
+      <Index19D3/>
     </div>
   );
 }
