@@ -27,7 +27,6 @@ function Index18D4() {
         if (event.target.value === 'delete') {
             copyCheckboxes.forEach(checkbox => {
                 checkbox.isChecked ? checkbox.display = true : checkbox.display = false;
-                checkbox.isChecked = false;
                 console.log(checkbox);
             });
             setCheckboxes(copyCheckboxes);
@@ -63,7 +62,7 @@ function Index18D4() {
                         >
                             <input
                                 type="checkbox"
-                                defaultChecked={checkbox.isChecked}
+                                checked={checkbox.isChecked}
                                 onChange={() => handelChange(checkbox.text)}
                             />
                             {checkbox.text}

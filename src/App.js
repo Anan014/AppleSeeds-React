@@ -1,9 +1,9 @@
-import Index19D1 from "./components/17.React_Function_Components/19.1-Simple_Fetch/Index19D1";
+import Index19D2 from "./components/17.React_Function_Components/19.2-Countries_Of_The_World/Index19D2";
 
 function App() {
   return (
     <div>
-      <Index19D1/>
+      <Index19D2/>
     </div>
   );
 }
